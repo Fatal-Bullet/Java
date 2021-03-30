@@ -1,5 +1,6 @@
-Instale Jest usando yarn:
+# Instale Jest usando 
 
+yarn:
 yarn add --dev jest
 
 Ou npm:
